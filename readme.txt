@@ -2,3 +2,5 @@ testGit init
 readme
 hello git
 tonight
+git test
+git stage
